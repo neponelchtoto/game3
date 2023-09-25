@@ -1,0 +1,8 @@
+spacexplore: spacexplore.o
+	gcc -o spacexplore spacexplore.o `pkg-config --libs sdl SDL_ttf`
+
+spacexplore.o: spacexplore.c
+	gcc -c -Wno-switch spacexplore.c `pkg-config --cflags sdl SDL_ttf` -O0 -g
+
+clean:
+	rm spacexplore *.o
