@@ -1,3 +1,6 @@
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=neponelchtoto_game3&metric=alert_status)](https://sonarcloud.io/summary/overall?id=neponelchtoto_game3)		
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=neponelchtoto_game3&metric=bugs)](https://sonarcloud.io/summary/overall?id=neponelchtoto_game3)
+[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=neponelchtoto_game3&metric=code_smells)](https://sonarcloud.io/summary/overall?id=neponelchtoto_game3)
 
 
 
